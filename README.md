@@ -11,7 +11,7 @@ Harbour Brew Market experienced significant fluctuations in iced-coffee demand t
 This involved identifying and handling missing values, removing duplicate records, validating and correcting data types, checking for inconsistent data formats, and ensuring datasets were structured appropriately for analysis. Applied Pandas functions and techniques such as filtering, grouping, aggregation, and transformation to prepare datasets for further exploration.
 
 • Performed **Exploratory Data Analysis (EDA)** to investigate relationships between sales performance and several business variables including temperature conditions, seasonal trends, public holidays, and promotional spending levels. 
-  •  **Scatter plots** to examine relationships between temperature, promotional spending, and sales
+  • **Scatter plots** to examine relationships between temperature, promotional spending, and sales
   • **Heatmaps** for seasonal sales performance across Sydney suburbs
   • **Line charts** to identify seasonal and monthly demand trends
   • **Bar charts** to compare sales performance across holiday and non-holiday periods
