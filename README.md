@@ -6,7 +6,9 @@ Analysed **17,600+ iced-coffee sales records** for Harbour Brew Market using **P
 Harbour Brew Market experienced significant fluctuations in iced-coffee demand throughout the year, management needed to understand how factors such as temperature, seasonal changes, public holidays, and promotional spending influenced sales performance.
 
 **Analysis Apporach**
-Conducted **Data cleaning and Preprocessing** to improve data quality and reliability before analysis. This involved identifying and handling missing values, removing duplicate records, validating and correcting data types, checking for inconsistent data formats, and ensuring datasets were structured appropriately for analysis. Applied Pandas functions and techniques such as filtering, grouping, aggregation, and transformation to prepare datasets for further exploration.
+
+Conducted **Data cleaning and Preprocessing** to improve data quality and reliability before analysis. 
+This involved identifying and handling missing values, removing duplicate records, validating and correcting data types, checking for inconsistent data formats, and ensuring datasets were structured appropriately for analysis. Applied Pandas functions and techniques such as filtering, grouping, aggregation, and transformation to prepare datasets for further exploration.
 
 Performed **Exploratory Data Analysis (EDA)** to investigate relationships between sales performance and several business variables including temperature conditions, seasonal trends, public holidays, and promotional spending levels. 
 • **Scatter plots** to examine relationships between temperature, promotional spending, and sales
@@ -17,6 +19,7 @@ Performed **Exploratory Data Analysis (EDA)** to investigate relationships betwe
 • **Box plots** to identify variability and outliers in sales performanc
 
 **Key Insights**
+
 • **Holiday weeks consistently outperformed non-holiday weeks**, although further analysis revealed that most holiday periods occurred during summer, suggesting temperature may be the true driver of demand.  
 
 • Heatmap analysis showed **summer generated the highest average weekly sales** (≈350–380 units) while spring recorded the lowest (≈220–240 units), demonstrating strong seasonality in customer demand.  
